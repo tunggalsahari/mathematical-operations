@@ -6,3 +6,4 @@ sides = float(input(sides))
 result = sides * sides
 
 message = (f"The result is {result} CM^2")
+print(message)
